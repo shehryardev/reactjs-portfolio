@@ -19,7 +19,6 @@ const Home = () => {
       </div>
       <Skills />
       <Projects />
-      <Resume />
     </div>
   );
 };
