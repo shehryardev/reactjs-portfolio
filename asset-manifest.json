@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactjs-portfolio/static/css/main.a7976702.css",
+    "main.js": "/reactjs-portfolio/static/js/main.147802c1.js",
+    "static/js/787.1ed0c42c.chunk.js": "/reactjs-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/airbnb-clone.png": "/reactjs-portfolio/static/media/airbnb-clone.5c265c5fb12d1b372dee.png",
+    "static/media/elite-residency.png": "/reactjs-portfolio/static/media/elite-residency.01079132f014d4632904.png",
+    "static/media/ecommerce.png": "/reactjs-portfolio/static/media/ecommerce.b539b452cb91a197a43f.png",
+    "static/media/MyCV.pdf": "/reactjs-portfolio/static/media/MyCV.232b9a1870c7a2146713.pdf",
+    "static/media/logo.svg": "/reactjs-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactjs-portfolio/index.html",
+    "main.a7976702.css.map": "/reactjs-portfolio/static/css/main.a7976702.css.map",
+    "main.147802c1.js.map": "/reactjs-portfolio/static/js/main.147802c1.js.map",
+    "787.1ed0c42c.chunk.js.map": "/reactjs-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7976702.css",
+    "static/js/main.147802c1.js"
+  ]
+}
