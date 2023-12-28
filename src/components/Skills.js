@@ -4,10 +4,10 @@ import { Icon } from "@iconify/react";
 const Skills = () => {
   return (
     <div>
-      <div className="py-10 px-5 mx-auto   text-white  md:max-w-[61rem]">
+      <div className="py-10 px-5 ml-[80px] text-white  md:max-w-[61rem]">
         <div className="   ">
           <p>// Skills regarding me</p>
-          <div className="skills mt-3 ">
+          <div className="skills my-3 ">
             <div className="flex items-center space-x-3 ">
               <Icon
                 icon="vscode-icons:file-type-reactjs"
